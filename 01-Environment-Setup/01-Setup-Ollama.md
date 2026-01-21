@@ -1,5 +1,5 @@
 
-## Setup Instructions
+## Ollama Setup
 - Navigate to https://ollama.com
 - Download the ollama executable
 - Install ollama
