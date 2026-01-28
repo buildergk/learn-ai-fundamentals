@@ -12,8 +12,8 @@ Learn Artificial Intelligence by building LLM apps and enhancing them with RAG, 
 
 
 ## Projects
-- [Webpage Summarizer](./Projects/01-Webpage-Summarizer/README.md)
+- [Webpage Summarizer](https://github.com/buildergk/webpage-summarizer/README.md)
 
 
 ## Credits & Sources
-The concepts and approaches in this repository are inspired by or learned from [Ed Donner](https://github.com/ed-donner)'s _LLM Engineering_ course. This repo also includes my own learnings, experiments, and implementations from various other sources.
+Some of the concepts and approaches in this repository are inspired by [Ed Donner](https://github.com/ed-donner)'s _LLM Engineering_ course. This repo also includes my own learnings, experiments, and implementations from various other sources.
