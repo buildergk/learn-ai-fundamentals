@@ -9,5 +9,6 @@
 - Enter a name for the key.
 - Select **Default project** in the project dropdown. This will help you use this key across projects.
 - Click on **Create Secret Key** button.
-- Copy the secret key. The key should start with _sk-proj-_
+- Copy the secret key. The key should start with _sk-proj-_.
+
 Note: If you don't want to pay, switch over to free options such as [Ollama](./03-Setup-Ollama.md).

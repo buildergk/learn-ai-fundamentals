@@ -9,3 +9,11 @@ Learn Artificial Intelligence by building LLM apps and enhancing them with RAG, 
 - [Setup UV](./01-Environment-Setup/05-Setup-UV.md)
 - [Setup OpenAI](./01-Environment-Setup/06-Setup-OpenAI.md)
 - [Setup Project](./01-Environment-Setup/07-Setup-Project.md)
+
+
+## Projects
+- [Webpage Summarizer](./Projects/01-Webpage-Summarizer/README.md)
+
+
+## Credits & Sources
+The concepts and approaches in this repository are inspired by or learned from [Ed Donner](https://github.com/ed-donner)'s _LLM Engineering_ course. This repo also includes my own learnings, experiments, and implementations from various other sources.
