@@ -8,3 +8,4 @@ Learn Artificial Intelligence by building LLM apps and enhancing them with RAG, 
 - [Setup Cursor](./01-Environment-Setup/04-Setup-Cursor.md)
 - [Setup UV](./01-Environment-Setup/05-Setup-UV.md)
 - [Setup OpenAI](./01-Environment-Setup/06-Setup-OpenAI.md)
+- [Setup Project](./01-Environment-Setup/07-Setup-Project.md)
