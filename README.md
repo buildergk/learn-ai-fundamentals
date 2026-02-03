@@ -1,14 +1,14 @@
 # Learn AI Fundamentals
 Learn Artificial Intelligence by building LLM apps and enhancing them with RAG, LoRA and AI Agents.
 
-## Environment Setup
-- [Setup Python](./01-Environment-Setup/01-Setup-Python.md)
-- [Setup Git](./01-Environment-Setup/02-Setup-Git.md)
-- [Setup Ollama](./01-Environment-Setup/03-Setup-Ollama.md)
-- [Setup Cursor](./01-Environment-Setup/04-Setup-Cursor.md)
-- [Setup UV](./01-Environment-Setup/05-Setup-UV.md)
-- [Setup OpenAI](./01-Environment-Setup/06-Setup-OpenAI.md)
-- [Setup Project](./01-Environment-Setup/07-Setup-Project.md)
+## Introduction
+- [Setup Python](./01-introduction/01-setup-python.md)
+- [Setup Git](./01-introduction/02-setup-git.md)
+- [Setup Ollama](./01-introduction/03-setup-ollama.md)
+- [Setup Cursor](./01-introduction/04-setup-cursor.md)
+- [Setup UV](./01-introduction/05-setup-uv.md)
+- [Setup OpenAI](./01-introduction/06-setup-openai.md)
+- [Setup Project](./01-introduction/07-setup-project.md)
 
 
 ## Projects
@@ -16,4 +16,4 @@ Learn Artificial Intelligence by building LLM apps and enhancing them with RAG, 
 
 
 ## Credits & Sources
-Some of the concepts and approaches in this repository are inspired by [Ed Donner](https://github.com/ed-donner)'s _LLM Engineering_ course. This repo also includes my own learnings, experiments, and implementations from various other sources.
+Some of the concepts and approaches in this repository are inspired by [Ed Donner](https://github.com/ed-donner)'s LLM Engineering course. This repo also includes my own learnings, experiments, and implementations from various other sources.
