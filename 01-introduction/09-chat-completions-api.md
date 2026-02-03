@@ -51,3 +51,6 @@ content = response.choices[0].message.content
 print(content)
 ```
 
+---
+
+Previous: [Models](/01-introduction/08-models.md)

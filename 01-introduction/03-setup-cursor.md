@@ -8,3 +8,7 @@ Note: if you prefer Visual studio code instead of cursor download it from [here]
 ## Setup Extensions
 - Install Python extension by _ms-python_
 - Install Jupyter extension by _ms-toolsai_
+
+---
+
+Previous: [Setup Git](/01-introduction/02-setup-git.md) | Next: [Setup UV](/01-introduction/04-setup-uv.md)

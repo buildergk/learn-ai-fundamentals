@@ -16,3 +16,6 @@
   .env
   ```
 
+---
+
+Previous: [Setup UV](/01-introduction/04-setup-uv.md) | Next: [Setup Ollama](/01-introduction/06-setup-ollama.md)

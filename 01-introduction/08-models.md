@@ -28,3 +28,7 @@
   - Amazon Bedrock
   - Google Vertex
   - Azure ML
+
+---
+
+Previous: [Setup OpenAI](/01-introduction/07-setup-openai.md) | Next: [Chat Completions API](/01-introduction/09-chat-completions-api.md)

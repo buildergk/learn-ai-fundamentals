@@ -4,3 +4,7 @@
   ![UV Installation](Images/uv-installation.png)
 - You can use other methods of installation such as pypi, winget, docker, etc. if you prefer, But ensure the successful installation using the step below.
 - After the installation, Run the command `uv --version` in a new terminal window. The output should show the version of uv which is installed.
+
+---
+
+Previous: [Setup Cursor](/01-introduction/03-setup-cursor.md) | Next: [Setup Project](/01-introduction/05-setup-project.md)

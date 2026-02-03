@@ -12,3 +12,7 @@
 - Copy the secret key. The key should start with _sk-proj-_. This key needs to be updated in the environment file in the [01]
 
 Note: If you don't want to pay, switch over to free options such as [Ollama](./03-Setup-Ollama.md).
+
+---
+
+Previous: [Setup Ollama](/01-introduction/06-setup-ollama.md) | Next: [Models](/01-introduction/08-models.md)
