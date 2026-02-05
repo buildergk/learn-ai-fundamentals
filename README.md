@@ -14,6 +14,7 @@ Learn Artificial Intelligence by building LLM apps and enhancing them with RAG, 
 
 ## Projects
 - [Webpage Summarizer](https://github.com/buildergk/ai-webpage-summarizer)
+- [Webpage Brochurizer](https://github.com/buildergk/ai-webpage-brochurizer)
 
 
 ## Credits & Sources
