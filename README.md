@@ -10,7 +10,11 @@ Learn Artificial Intelligence by building LLM apps and enhancing them with RAG, 
 - [Setup Ollama](/01-introduction/06-setup-ollama.md)
 - [Setup OpenAI](/01-introduction/07-setup-openai.md)
 - [Models](/01-introduction/08-models.md)
-- [Chat Completions API](/01-introduction/09-chat-completions-api.md)
+- [Chat Completions](/01-introduction/09-chat-completions-api.md)
+- [Transformers](/01-introduction/10-transformers.md)
+- [Parameters](/01-introduction/11-parameters.md)
+- [Tokens](/01-introduction/12-tokens.md)
+- [Context Windows](/01-introduction/13-context-windows.md)
 
 ## Projects
 - [Webpage Summarizer](https://github.com/buildergk/ai-webpage-summarizer)
