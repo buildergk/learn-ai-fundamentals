@@ -15,3 +15,6 @@ Before Transformer architecture, LSTM (Long Short Term Memory), it is more power
 2024 - GPT-4o
 2025 - GPT-5
 
+---
+
+Previous: [Chat Completions](/01-introduction/09-chat-completions-api.md) | Next: [Parameters](/01-introduction/11-parameters.md)

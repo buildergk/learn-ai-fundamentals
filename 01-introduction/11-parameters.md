@@ -13,4 +13,6 @@ DeepSeek -671B
 GPT-4 - 1.76T
 Latest Frontier Models - Undisclosed
 
+---
 
+Previous: [Transformers](/01-introduction/11-parameters.md) | Next: [Tokens](/01-introduction/12-tokens.md)

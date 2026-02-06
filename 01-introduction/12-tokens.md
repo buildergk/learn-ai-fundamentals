@@ -25,3 +25,7 @@ for token_id in tokens:
     print(f"{token_id}: {token_text}")
 
 ```
+
+---
+
+Previous: [Parameters](/01-introduction/11-parameters.md) | Next: [Context Windows](/01-introduction/13-context-windows.md)
