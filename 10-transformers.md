@@ -17,4 +17,4 @@ Before Transformer architecture, LSTM (Long Short Term Memory), it is more power
 
 ---
 
-Previous: [Chat Completions](/01-introduction/09-chat-completions-api.md) | Next: [Parameters](/01-introduction/11-parameters.md)
+Previous: [Chat Completions](/09-chat-completions-api.md) | Next: [Parameters](/11-parameters.md)

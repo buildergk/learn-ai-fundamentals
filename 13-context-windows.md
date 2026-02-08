@@ -14,4 +14,4 @@ To view live api costs of all models, visit [LLM Leaderboard](https://vellum.ai/
 
 ---
 
-Previous: [Tokens](/01-introduction/12-tokens.md)
+Previous: [Tokens](/12-tokens.md)

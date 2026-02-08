@@ -7,4 +7,4 @@
 
 ---
 
-Previous: [Setup Cursor](/01-introduction/03-setup-cursor.md) | Next: [Setup Project](/01-introduction/05-setup-project.md)
+Previous: [Setup Cursor](/03-setup-cursor.md) | Next: [Setup Project](/05-setup-project.md)

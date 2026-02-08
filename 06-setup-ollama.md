@@ -10,4 +10,4 @@ Note: For practice, Ollama should be enough. If you need a more efficient model 
 
 ---
 
-Previous: [Setup Project](/01-introduction/05-setup-project.md) | Next: [Setup OpenAI](/01-introduction/07-setup-openai.md)
+Previous: [Setup Project](/05-setup-project.md) | Next: [Setup OpenAI](/07-setup-openai.md)

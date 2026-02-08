@@ -51,4 +51,4 @@ print(content)
 
 ---
 
-Previous: [Models](/01-introduction/08-models.md) | Next: [Transformers](/01-introduction/10-transformers.md)
+Previous: [Models](/08-models.md) | Next: [Transformers](/10-transformers.md)

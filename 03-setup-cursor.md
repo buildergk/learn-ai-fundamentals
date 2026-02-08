@@ -11,4 +11,4 @@ Note: if you prefer Visual studio code instead of cursor download it from [here]
 
 ---
 
-Previous: [Setup Git](/01-introduction/02-setup-git.md) | Next: [Setup UV](/01-introduction/04-setup-uv.md)
+Previous: [Setup Git](/02-setup-git.md) | Next: [Setup UV](/04-setup-uv.md)

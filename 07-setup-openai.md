@@ -15,4 +15,4 @@ Note: If you don't want to pay, switch over to free options such as [Ollama](./0
 
 ---
 
-Previous: [Setup Ollama](/01-introduction/06-setup-ollama.md) | Next: [Models](/01-introduction/08-models.md)
+Previous: [Setup Ollama](/06-setup-ollama.md) | Next: [Models](/08-models.md)

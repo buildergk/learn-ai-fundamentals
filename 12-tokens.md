@@ -28,4 +28,4 @@ for token_id in tokens:
 
 ---
 
-Previous: [Parameters](/01-introduction/11-parameters.md) | Next: [Context Windows](/01-introduction/13-context-windows.md)
+Previous: [Parameters](/11-parameters.md) | Next: [Context Windows](/13-context-windows.md)

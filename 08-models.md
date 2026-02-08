@@ -31,4 +31,4 @@
 
 ---
 
-Previous: [Setup OpenAI](/01-introduction/07-setup-openai.md) | Next: [Chat Completions API](/01-introduction/09-chat-completions-api.md)
+Previous: [Setup OpenAI](/07-setup-openai.md) | Next: [Chat Completions API](/09-chat-completions-api.md)
